@@ -10,7 +10,7 @@ import requests
 from usedcar import CarPredictionModel as CarPredictionModel
 warnings.filterwarnings('ignore')
 
-model_path = 'https://github.com/manaranjanp/usedcarprice/blob/main/usedcar/carmodel.pkl?raw=true'
+model_path = 'https://github.com/rajap20/usedcar/blob/main/carmodel.pkl?raw=true'
         
 class UsedcarPricePredictor():              
         
